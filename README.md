@@ -1,7 +1,7 @@
 # From CPU to the Browser
 
 We live in the era of AI slop.  
-Tools like Claude, Cursor, and friends generate React components faster than you can read them — but 90% of it is bloated, unoptimized garbage full of unnecessary useEffect chains that turn smooth UIs into slideshows imo many websites today wont run at 60 fps 
+Tools like Claude, Cursor, and friends generate React components faster than you can read them but 90% of it is bloated, unoptimized garbage full of unnecessary useEffect chains that turn smooth UIs into slideshows imo many websites today wont run at 60 fps 
 
 that show how engineers serious about engineering this is what makes you different from the , and this course helps engineers learn real engineering learn keep screaming “React is slow” while they accidentally DDoS their own event loop with re-renders and state thrashing.
 
@@ -266,6 +266,6 @@ You’ll walk away with something rare:
 
 this path is hard ik everything in this world hard at start soon you gonna suffer and it will break you a little but at end winning only matters
 
-But if you finish it, you’ll have built something most engineers never even attempt — and you’ll never see web perf the same way again
+But if you finish it, you’ll have built something most engineers never even attempt and you’ll never see web perf the same way again
 
 **thank me later :)**
